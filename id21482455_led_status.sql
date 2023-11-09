@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
--- https://www.phpmyadmin.net/
+-- https://www.phpmyadmin.net/a
 --
 -- Servidor: localhost:3306
 -- Tiempo de generación: 09-11-2023 a las 03:12:48
